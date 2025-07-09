@@ -1,0 +1,50 @@
+{
+  "name": "InterviewReader",
+  "version": "1.0.0",
+  "description": "InterviewReader is a community-powered platform where users can share and explore real interview experiences from top tech companies.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "prod": "NODE_ENV=production node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"Linting not configured\"",
+    "validate-env": "node -e \"import('./src/utils/env.js').then(m => m.validateEnvironment())\""
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "oauth",
+    "interview",
+    "mongodb",
+    "express"
+  ],
+  "author": "Dharmendra Kumar",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^6.0.0",
+    "express-validator": "^6.0.0",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.2",
+    "mongoose-aggregate-paginate-v2": "^1.1.4",
+    "morgan": "^1.10.0"
+  }
+}
