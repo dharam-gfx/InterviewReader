@@ -50,8 +50,13 @@ const interviewExperienceSchema = new mongoose.Schema( {
         default: [],
         index: true
     },
-// Only login user can like the interview experience
+    // Only login user can like the interview experience
     likes: {
+        type: Number,
+        default: 0
+    },
+    // when user views or read the interview experience
+    views: {
         type: Number,
         default: 0
     },
