@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "InterviewReader.Infrastructure/1.0.0": {
+        "dependencies": {
+          "InterviewReader.Application": "1.0.0",
+          "InterviewReader.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InterviewReader.Infrastructure.dll": {}
+        }
+      },
+      "InterviewReader.Application/1.0.0": {
+        "dependencies": {
+          "InterviewReader.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InterviewReader.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InterviewReader.Domain/1.0.0": {
+        "runtime": {
+          "InterviewReader.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterviewReader.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterviewReader.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterviewReader.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

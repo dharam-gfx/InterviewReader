@@ -1,0 +1,6 @@
+@InterviewReader.API_HostAddress = http://localhost:5012
+
+GET {{InterviewReader.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

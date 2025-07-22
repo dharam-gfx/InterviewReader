@@ -1,0 +1,15 @@
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\bin\Debug\net9.0\InterviewReader.Application.deps.json
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\bin\Debug\net9.0\InterviewReader.Application.dll
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\bin\Debug\net9.0\InterviewReader.Application.pdb
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\bin\Debug\net9.0\InterviewReader.Domain.dll
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\bin\Debug\net9.0\InterviewReader.Domain.pdb
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\InterviewReader.Application.csproj.AssemblyReference.cache
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\InterviewReader.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\InterviewReader.Application.AssemblyInfoInputs.cache
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\InterviewReader.Application.AssemblyInfo.cs
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\InterviewReader.Application.csproj.CoreCompileInputs.cache
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\Intervie.569ED3B7.Up2Date
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\InterviewReader.Application.dll
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\refint\InterviewReader.Application.dll
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\InterviewReader.Application.pdb
+C:\Users\amohit\Desktop\InterviewReader\InterviewReader.Application\obj\Debug\net9.0\ref\InterviewReader.Application.dll
